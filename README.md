@@ -1,0 +1,1 @@
+This repository provides a comprehensive overview of core concepts essential for building robust applications with Next.js. It covers everything from foundational principles to practical examples, making it a valuable resource for anyone developing with Next.js.
